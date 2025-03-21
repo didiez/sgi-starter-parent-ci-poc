@@ -35,7 +35,7 @@
   </developers>
 
   <scm>
-    <url>https://github.com/HerculesCRUE/SGI</url>
+    <url>https://github.com/didiez/sgi-starter-parent-ci-poc</url>
   </scm>
 
   <properties>
