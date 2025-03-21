@@ -531,6 +531,9 @@
             </execution>
           </executions>
         </plugin>
+      </plugins>
+    </pluginManagement>
+    <plugins>
         <plugin>
           <groupId>org.sonatype.central</groupId>
           <artifactId>central-publishing-maven-plugin</artifactId>
@@ -540,7 +543,6 @@
             <publishingServerId>central</publishingServerId>
           </configuration>
         </plugin>
-      </plugins>
-    </pluginManagement>
+    </plugins>
   </build>
 </project>
